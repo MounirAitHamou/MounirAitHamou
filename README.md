@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Mounir Ait Hamou
 
-🎓 I’m a 3rd-year Computer Science student who likes exploring how things really work — especially when it comes to performance, GPUs, and AI.  
+🎓 I’m a 3rd-year Computer Science student at the University of Ottawa who likes exploring how things really work — especially when it comes to performance, GPUs, and AI.  
 🧠 I enjoy learning by building everything from scratch and seeing how far I can take it.
 
 ---
