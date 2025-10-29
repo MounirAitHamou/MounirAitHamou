@@ -33,4 +33,4 @@
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/mounir-a%C3%AFt-hamou-535a59234/) · [Email](maith079@uottawa.ca)
+[LinkedIn](https://www.linkedin.com/in/mounir-a%C3%AFt-hamou-535a59234/) · [Email](mailto:maith079@uottawa.ca)
