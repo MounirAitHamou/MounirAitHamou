@@ -27,7 +27,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounirAitHamou&layout=compact&theme=radical" height="165">
-  <img src="https://streak-stats.demolab.com/?user=MounirAitHamou&theme=radical" height="165">
+  <img src="https://streak-stats.demolab.com/?user=MounirAitHamou" height="165">
 </div>
 
 ---
