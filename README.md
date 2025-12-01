@@ -2,7 +2,7 @@
 
 🎓 3rd-year Computer Science student at the University of Ottawa.  
 🧠 I love exploring how things really work — especially performance, GPUs, and AI.  
-💡 I learn by building things from scratch and pushing them to their limits.
+💡 I learn by building things from scratch.
 
 ---
 
@@ -14,21 +14,7 @@
 ---
 
 ### 🧰 Languages & Tools
-`C++` · `Python` · `Java` · `OpenCL`
-
----
-
-### ✨ Quote I live by
-> “Build it yourself. That’s how you really learn.”
-
----
-
-### 📊 Stats & Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MounirAitHamou&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounirAitHamou&layout=compact&theme=radical" height="165">
-</div>
+`C++` · `Python` · `Java` · `OpenCL` · `JavaScript` · `HTML`
 
 ---
 
