@@ -6,13 +6,6 @@
 
 ---
 
-### 🚧 Current Projects
-- 🧩 **[OpenCL Neural Network Framework](https://github.com/MounirAitHamou/OpenCLNeuralNetwork)** — built from the ground up; first real GPU project  
-- 🔄 Improving layer modularity and planning distributed training  
-- 🌅 Next: diving deeper into **graphics programming** and **rendering**
-
----
-
 ### 🧰 Languages & Tools
 `C++` · `Python` · `Java` · `OpenCL` · `JavaScript` · `HTML`
 
